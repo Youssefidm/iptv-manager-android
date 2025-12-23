@@ -1,0 +1,10 @@
+{
+  "appId": "com.iprovidetv4u.manager",
+  "appName": "IPTV Manager",
+  "webDir": "www",
+  "server": {
+    "url": "https://manager.iprovidetv4u.com",
+    "androidScheme": "https",
+    "cleartext": true
+  }
+}
